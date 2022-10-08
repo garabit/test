@@ -1,0 +1,37 @@
+[
+    {
+        "bundleID": "com.Domination.whoknows",
+        "name": "Domination",
+        "version": "4",
+        "itunesLookup": "",
+        "link": "https://master.dl.sourceforge.net/project/domination/Domination/1.2.5/Domination-4.ipa?viasf=1"
+    },
+    {
+        "bundleID": "com.yatee",
+        "name": "yatee",
+        "version": "1.3.5",
+        "itunesLookup": "https://github.com/yattee/yattee",
+        "link": "https://github.com/yattee/yattee/releases/download/v1.3.5/Yattee-1.3.5-iOS.ipa"
+    },
+    {
+        "bundleID": "com.netflix.Netflix",
+        "name": "Netflix",
+        "version": "14.53.0",
+        "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.netflix.Netflix",
+        "link": "https://ipa.playcover.workers.dev/1:/IPAs/Netflix/Netflix_14.53.0.ipa"
+    },
+    {
+        "bundleID": "com.google.ios.youtube",
+        "name": "YouTube",
+        "version": "17.38.9",
+        "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.google.ios.youtube",
+        "link": "https://ipa.playcover.workers.dev/1:/IPAs/YouTube/YouTube_17.38.9.ipa"
+    },
+    {
+        "bundleID": "com.nintendo.znma",
+        "name": "Nintendo Switch Parental Controls",
+        "version": "1.17.0",
+        "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.nintendo.znma",
+        "link": "https://ipa.playcover.workers.dev/0:/Nintendo%20Switch%20Parental%20Controls/Nintendo%20Switch%20Parental%20Controls_1.17.0.ipa"
+    }
+]
